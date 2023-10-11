@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone👋, I'm "Sakib"</h1>
 <h3 align="center">My passion is to develop Website and build App.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-atreus&label=Profile%20views&color=blue&style=plastic&" alt="sakib-atreus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-atreus&label=Profile%20views&color=green&style=plastic&" alt="sakib-atreus" /> </p>
 
 - 🔭 I’m currently working on **MediBox an IOT Based Smart Medicine Dispenser with Mobile App Assistance**
 
