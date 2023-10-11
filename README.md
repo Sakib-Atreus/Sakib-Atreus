@@ -44,7 +44,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sakib-atreus&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&" alt="sakib-atreus" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=dracula" alt="sakib-atreus" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-atreus&theme=dracula" alt="sakib-atreus" /></a> </p>
 
