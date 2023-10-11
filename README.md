@@ -46,7 +46,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=dracula" alt="sakib-atreus" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-atreus&theme=dracula" alt="sakib-atreus" /></a> </p>
+
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-atreus&theme=dracula" alt="sakib-atreus" /></a> </p>
