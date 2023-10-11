@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-atreus&label=Profile%20views&color=brightgreen&style=plastic&" alt="sakib-atreus" /> </p>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+
 - 🔭 I’m currently working on **MediBox an IOT Based Smart Medicine Dispenser with Mobile App Assistance**
 
 - 🌱 I’m currently learning **Competitive Programming and Flutter**
