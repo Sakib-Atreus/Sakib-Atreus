@@ -37,16 +37,16 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/sakib-atreus)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-atreus&show_icons=true&locale=en&layout=compact" alt="sakib-atreus" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-atreus&show_icons=true&locale=en&layout=compact&&theme=dracula" alt="sakib-atreus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en" alt="sakib-atreus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=dracula" alt="sakib-atreus" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sakib-atreus&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&" alt="sakib-atreus" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-atreus" alt="sakib-atreus" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakib-atreus&theme=dracula" alt="sakib-atreus" /></a> </p>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
