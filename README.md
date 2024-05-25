@@ -5,15 +5,15 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
-- 🔭 I’m currently working on **MediBox an IOT Based Smart Medicine Dispenser with Mobile App Assistance**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Competitive Programming and Flutter**
+- 🌱 I’m currently learning **Competitive Programming and Problem Solving**
 
 - 👯 I’m looking to collaborate on **project such as related Web Development**
 
 - 👨‍💻 All of my projects are available at [https://sakib-atreus.github.io/Sakib-Mia-Portfolio/](https://sakib-atreus.github.io/Sakib-Mia-Portfolio/)
 
-- 💬 Ask me about **React, JavaScript, HTML, CSS, C, C++, Java**
+- 💬 Ask me about **React, JavaScript, Typescript, HTML, CSS, C, C++, Java**
 
 - 📫 How to reach me **sakibmia0718@gmail.com**
 
