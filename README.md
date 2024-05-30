@@ -106,7 +106,7 @@
 
 ## :chart_with_upwards_trend: Current Stats
 <div style="display: grid; grid-rows: 1; justify-content: center;">
-  <img style="width: 30em; height: 15em" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=ocean-gradient" alt="GitHub Streak Stats">
+  <img style="width: 30em; height: 17em" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=ocean-gradient" alt="GitHub Streak Stats">
   <img style="width: 30em; height: 15em" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Streak Stats">
 </div>
 
