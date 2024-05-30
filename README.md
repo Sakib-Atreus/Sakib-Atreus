@@ -99,6 +99,12 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
+## Toppppp
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img style="width: 30em; height: 12em; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-atreus&show_icons=true&locale=en&layout=compact&&theme=react" alt="Top Languages">
+  <img style="width: 30em; height: 12em;" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Stats">
+</div>
+
 ## 🔝 Top Contributed Repo
 <img style="width: 30em; height: 12em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-atreus&show_icons=true&locale=en&layout=compact&&theme=react" alt="sakib-atreus" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Streak Stats">
