@@ -99,16 +99,13 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
+## 🔝 Top Contributed Repo
+<img style="width: 30em; height: 12em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-atreus&show_icons=true&locale=en&layout=compact&&theme=react" alt="sakib-atreus" />
+<img src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Streak Stats">
+  
 
 ## :chart_with_upwards_trend: Current Stats
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=ocean-gradient&width=13em)
-  ![](https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react)
-
-## :chart_with_upwards_trend: Current Stats
-<div style="display: grid; grid-rows: 1; justify-content: space-around;">
-  <img style="width: 30em; height: 18em" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=ocean-gradient" alt="GitHub Streak Stats">
-  <img style="width: 30em; height: 17em" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Streak Stats">
-</div>
 
 
 ## ✍️ Dev Quote
