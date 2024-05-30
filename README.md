@@ -102,7 +102,7 @@
 ## 🔝 Top Contributed Repo
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <img style="width: 30em; height: 12em; margin-right: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-atreus&show_icons=true&locale=en&layout=compact&&theme=react" alt="Top Languages">
-  <img style="width: 30em; height: 12em;" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Stats">
+  <img style="width: 30em; height: 12em; margin-right: 5px;" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Stats">
 </div>
 
 
