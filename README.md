@@ -101,7 +101,7 @@
 
 ## 🔝 Top Contributed Repo
 <img style="width: 30em; height: 12em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-atreus&show_icons=true&locale=en&layout=compact&&theme=react" alt="sakib-atreus" />
-<img src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Streak Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Streak Stats">
   
 
 ## :chart_with_upwards_trend: Current Stats
