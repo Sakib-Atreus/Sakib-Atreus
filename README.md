@@ -1,10 +1,15 @@
-<h1 align="center">Hi Everyone👋, I'm "Sakib"</h1>
-<h3 align="center">My passion is to develop Website and build App.</h3>
+
+# Md. Sakib Mia
+
+### **Software Developer & Designer**
+React | Node.js | Express.js | MongoDB 
+<br/>
+>
+> "I'm inspired by engineering, where I can apply traditional knowledge to practical applications. I've always been enthusiastic about design, interactive systems, profound connectivity, and their effects on human nature. I want to develop myself creating and developing those stuffs."
 
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=sakib-atreus&label=Profile%20views&color=brightgreen&style=plastic&" alt="sakib-atreus" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 
-
-<h3 align="left"> :mailbox: Connect with me:</h3>
+## <h2 align="left"> :mailbox: Reach me out</h2>
 <p align="left">
 <a href="mailto:sakibmia0718@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
@@ -29,9 +34,12 @@
 </a>
 </p>
 
+<br />
 
-## :eyes: Current overview
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+## :eyes: Current Overview
+<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+
+<br />
 
 - 🔭 I’m currently working on **Full Stack Web Development**
 
@@ -45,9 +53,10 @@
 
 - ⚡ Fun fact **If you think funny, i'm so funny and make me the reason for your smile**
 
+<br />
+<br />
 
-
-**<h1 style="font-weight: 700, margin-top: 4px;" align="center"> :computer: Tack Stack</h1>**
+**<h1 style="font-weight: 700" align="center"> :computer: Tack Stack</h1>**
 
 #### ⚡Development Languages
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -98,6 +107,8 @@
 #### ⚡Other
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+<br />
 
 ## 🔝 Top Languages and Profile Stats
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
