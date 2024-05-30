@@ -23,7 +23,12 @@
 
 <h3 align="left">Connect with me:</h3>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakiratreus@gmail.com)
+
+
 <p align="left">
+<a href="https://gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/SamiulSakib7" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
