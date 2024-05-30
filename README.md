@@ -101,13 +101,13 @@
 
 
 ## :chart_with_upwards_trend: Current Stats
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=ocean-gradient)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=ocean-gradient&width=13em)
   ![](https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react)
 
 ## :chart_with_upwards_trend: Current Stats
-<div style="display: grid; grid-rows: 1; justify-content: center;">
-  <img style="width: 30em; height: 17em" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=ocean-gradient" alt="GitHub Streak Stats">
-  <img style="width: 30em; height: 15em" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Streak Stats">
+<div style="display: grid; grid-rows: 1; justify-content: space-around;">
+  <img style="width: 30em; height: 18em" src="https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=ocean-gradient" alt="GitHub Streak Stats">
+  <img style="width: 30em; height: 17em" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Streak Stats">
 </div>
 
 
