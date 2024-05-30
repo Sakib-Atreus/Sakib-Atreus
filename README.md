@@ -101,13 +101,13 @@
 
 
 ## :chart_with_upwards_trend: Current Stats
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=ocean-gradient)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=ocean-gradient&width=220)
   ![](https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react)
 
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark)
 
 <h2 align="left">⚡Activity Graph:</h2>
-<img align="center" height="380em" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib-atreus&theme=react-dark"/>
+<img align="center" height="320em" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib-atreus&theme=react-dark"/>
 
 
