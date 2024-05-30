@@ -21,9 +21,6 @@
 <a href="https://www.facebook.com/samiulislamsakib.77777" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.codechef.com/users/sakib_atreus" target="_blank">
-<img src=https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white alt=codechef style="margin-bottom: 5px;" />
-</a>
 <a href="https://codeforces.com/profile/Sakib_Atreus" target="_blank">
 <img src=https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=Codeforces&logoColor=white alt=codeforce style="margin-bottom: 5px;" />
 </a>
@@ -111,6 +108,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark)
 
 <h2 align="left">⚡Activity Graph:</h2>
-<img align="center" height="420em" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib-atreus&theme=react-dark"/>
+<img align="center" height="380em" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib-atreus&theme=react-dark"/>
 
 
