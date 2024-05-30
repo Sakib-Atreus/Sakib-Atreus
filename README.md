@@ -22,8 +22,6 @@
 - ⚡ Fun fact **If you think funny, i'm so funny and make me the reason for your smile**
 
 <h3 align="left">Connect with me:</h3>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibatreus@gmail.com)
-
 <p align="left">
 <a href="https://twitter.com/SamiulSakib7" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
