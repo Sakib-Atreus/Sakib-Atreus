@@ -46,7 +46,7 @@
 </a>
 </p>
 
-<h3 text-size="24px" font-weight="bold" align="center">Tech Stack:</h3>
+**<h1 style="font-weight: 700" align="center">Tech Stack:</h1>**
 
 #### Development Languages
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
