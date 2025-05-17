@@ -5,7 +5,7 @@
 React | Node.js | Express.js | MongoDB 
 <br/>
 >
-> "I'm inspired by engineering, where I can apply traditional knowledge to practical applications. I've always been enthusiastic about design, interactive systems, profound connectivity, and their effects on human nature. I want to develop myself creating and developing those stuffs."
+> "I'm inspired by engineering, where I can apply traditional knowledge to practical applications. I've always been enthusiastic about design, interactive systems, profound connectivity, and their effects on human nature. I want to develop myself by creating and developing those stuffs."
 
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=sakib-atreus&label=Profile%20views&color=brightgreen&style=plastic&" alt="sakib-atreus" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 
@@ -76,6 +76,7 @@ React | Node.js | Express.js | MongoDB
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -113,6 +114,7 @@ React | Node.js | Express.js | MongoDB
 #### ⚡Other
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 <br />
 
