@@ -87,7 +87,7 @@ React | Node.js | Express.js | MongoDB
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### ORM
+#### ⚡ORM
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-green?style=for-the-badge&logo=data:image)
 
