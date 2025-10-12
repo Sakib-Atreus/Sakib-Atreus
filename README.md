@@ -31,7 +31,8 @@ React | Node.js | Express.js | MongoDB
 <img src=https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white alt=codeforce style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/u/sakibatreus/" target="_blank">
-<img src=https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+<!-- <img src=https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white alt=leetcode style="margin-bottom: 5px;" /> -->
+<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor= alt=leetcode style="margin-bottom: 5px;" />
 </a>
 </p>
 
