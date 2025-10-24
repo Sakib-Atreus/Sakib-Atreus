@@ -2,7 +2,7 @@
 # Md. Sakib Mia
 
 ### **Software Developer & Designer**
-React | Node.js | Express.js | MongoDB 
+React | Node.js | SQL | DevOps 
 <br/>
 >
 > "I'm inspired by engineering, where I can apply traditional knowledge to practical applications. I've always been enthusiastic about design, interactive systems, profound connectivity, and their effects on human nature. I want to develop myself by creating and developing those stuffs."
