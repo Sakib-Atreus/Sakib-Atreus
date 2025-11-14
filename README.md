@@ -53,7 +53,7 @@ React | Node.js | SQL | DevOps
 
 - 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Competitive Programming**
+- 🌱 I’m currently learning **Competitive Programming & DSA**
 
 - 👯 I’m looking to collaborate on **project such as related Web Development**
 
