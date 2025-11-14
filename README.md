@@ -51,7 +51,7 @@ React | Node.js | SQL | DevOps
 
 <br />
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **Competitive Programming**
 
@@ -59,7 +59,7 @@ React | Node.js | SQL | DevOps
 
 - 👨‍💻 All of my projects are available at **<a href="https://sakib-atreus.github.io/Sakib-Mia-Portfolio/" target="_blank">My Portfolio</a>**
 
-- 💬 Ask me about **React, JavaScript, Typescript, HTML, CSS, C, C++, Java**
+- 💬 Ask me about **React, Node.js, JavaScript, Typescript, HTML, CSS, C, C++, Java**
 
 - ⚡ Fun fact **If you think funny, i'm so funny and make me the reason for your smile**
 
@@ -120,8 +120,8 @@ React | Node.js | SQL | DevOps
 #### ⚡OS
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MAC](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### ⚡Documentation
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) 
@@ -129,11 +129,11 @@ React | Node.js | SQL | DevOps
 ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
 
 #### ⚡Other
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
 <br />
 
