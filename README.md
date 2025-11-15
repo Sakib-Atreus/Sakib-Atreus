@@ -133,6 +133,18 @@ React | Node.js | SQL | DevOps
 ![MACOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=social&logo=linux&logoColor=black" height="30" /> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=social&logo=ubuntu&logoColor=white" height="30" /> 
+<img src="https://img.shields.io/badge/macOS-000000?style=social&logo=macOS&logoColor=white" height="30" /> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=social&logo=windows&logoColor=white" height="30" />
+
+<!-- Operating Systems -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![macOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
 #### ⚡Documentation
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) 
