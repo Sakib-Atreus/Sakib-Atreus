@@ -132,7 +132,7 @@ React | Node.js | SQL | DevOps
 ![MACOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 ![MACOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social" height="60">
+<img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social" height="160">
 
 #### ⚡Documentation
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) 
