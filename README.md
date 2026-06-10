@@ -200,7 +200,7 @@ React | Node.js | SQL | DevOps
   <!--
   <img style="width: 30em; height: 12em; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-atreus&show_icons=true&locale=en&layout=compact&&theme=gotham" alt="Top Languages">
   -->
-  <img style="width: 30em; height: 12em;" src="https://github-readme-stats-teal-two-79.vercel.app/api?username=sakib-atreus&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats">
+  <img style="width: 30em; height: 12em;" src="https://github-readme-stats-teal-two-79.vercel.app/api?username=sakib-atreus&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats">
   <!--
   <img style="width: 30em; height: 12em;" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Stats">
   -->
