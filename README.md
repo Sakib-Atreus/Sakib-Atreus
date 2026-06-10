@@ -47,9 +47,15 @@ React | Node.js | SQL | DevOps
 <br />
 
 ## :eyes: Current Overview
+
+<!--
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+-->
+<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br />
+
+<!--
 
 - 🔭 I’m currently working on **Software Development**
 
@@ -62,6 +68,26 @@ React | Node.js | SQL | DevOps
 - 💬 Ask me about **React, Node.js, JavaScript, Typescript, HTML, CSS, C, C++, Java**
 
 - ⚡ Fun fact **If you think funny, i'm so funny and make me the reason for your smile**
+
+-->
+
+
+- 💻 Building scalable web applications, efficient backend systems, and modern software solutions.
+  
+- 🔭 Currently working on **Full-Stack Development** with emphasis on **Backend Engineering** and **Software Architecture**.
+
+- 🌱 Enthusiastic learner, exploring **AI/ML, DevOps and DSA** while strengthening my **problem-solving and software engineering** skills.
+
+- 🤝 Open to collaborating on Web Development, AI/ML, and Open Source projects.
+
+- 👨‍💻 Explore my projects and view my experience and profile at **<a href="https://sakib-atreus.github.io/Sakib-Mia-Portfolio/" target="_blank">My Portfolio</a>**
+
+- 💬 Ask me about **React, Node.js, JavaScript, TypeScript, Java, Backend Development, and Software Engineering**
+
+- 🎯 Passionate about solving real-world problems through software and data-driven solutions.
+  
+- ⚡ Fun fact: **I enjoy bringing positivity and humor into conversations**
+
 
 <br />
 <br />
@@ -170,19 +196,30 @@ React | Node.js | SQL | DevOps
 
 ## 🔝 Top Languages and Profile Stats
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img style="width: 30em; height: 12em; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-atreus&show_icons=true&locale=en&layout=compact&&theme=react" alt="Top Languages">
+  <img style="width: 30em; height: 12em; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-atreus&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Top Languages">
   <!--
   <img style="width: 30em; height: 12em; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakib-atreus&show_icons=true&locale=en&layout=compact&&theme=gotham" alt="Top Languages">
   -->
+  <img style="width: 30em; height: 12em;" src="https://github-readme-stats-teal-two-79.vercel.app/api?username=sakib-atreus&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats">
+  <!--
   <img style="width: 30em; height: 12em;" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=react" alt="GitHub Stats">
+  -->
   <!--
   <img style="width: 30em; height: 12em;" src="https://github-readme-stats.vercel.app/api?username=sakib-atreus&show_icons=true&locale=en&theme=gotham" alt="GitHub Stats">
   -->
+
+  <!--
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tahmidhasantanoy&theme=react&hide_border=true&layout=donut" alt="Most Used Languages" />
+  -->
+  
 </div>
 
 
 ## :chart_with_upwards_trend: Current Stats
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=ocean-gradient&width=13em)
+  <!--
+  ![](https://streak-stats.demolab.com/?user=sakib-atreus&theme=react&hide_border=true&width=13em)
+  -->
   <!--
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sakib-atreus&theme=gotham&width=13em)
   -->
@@ -193,5 +230,17 @@ React | Node.js | SQL | DevOps
 
 <h2 align="left">⚡Activity Graph</h2>
 <img align="center" height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=sakib-atreus&theme=react-dark"/>
+
+
+
+<!-- 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=full&section=footer"/>
+</div>
+<div align="center">
+  <b>Thanks for visiting my profile! Let's connect and build something amazing together!</b>
+</div> 
+-->
+
 
 
